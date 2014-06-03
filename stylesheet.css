@@ -1,5 +1,5 @@
 select {
-    background-color: white;
+    font-size:0.5em;
 }
 
 tr, td {
@@ -7,10 +7,15 @@ tr, td {
 /*    border:1px dashed green; */
 }
 
+#table-sudoku {
+   /* width:300px;*/
+}
+
 table {
     border:1px solid black;
     border-spacing: 0px;
 }
+
 
 button {
 }
