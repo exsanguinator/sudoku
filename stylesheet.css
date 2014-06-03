@@ -1,5 +1,4 @@
 select {
-    font-size:0.8em;
 }
 
 tr, td {
@@ -8,7 +7,6 @@ tr, td {
 }
 
 #table-sudoku {
-   /* width:300px;*/
 }
 
 table {
